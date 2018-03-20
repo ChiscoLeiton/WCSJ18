@@ -741,4 +741,4 @@ form.contact-form.commentsblock input:not(.pushbutton-wide), form.contact-form.c
     text-align: right!important;
     margin: 0.25%;
 }
-.tix-website-url, #tix-attendees .tix-field{display:none!important;}
+#tix-attendees .tix-website-url{display:none!important;}
