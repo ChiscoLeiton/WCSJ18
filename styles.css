@@ -732,14 +732,13 @@ form.contact-form.commentsblock input:not(.pushbutton-wide), form.contact-form.c
 #tix-attendees .tix-columns-3 li {
     display: inline-block;
     float: none;
-    width: 32%;
-    margin-bottom: 48px;
+    width: 32%!important;
     height: auto;
     text-align: center;
     vertical-align: top;
     border: solid 1px #ccc;
-    padding: 3px;
-    text-align: right;
+    padding: 2px;
+    text-align: right!important;
     margin: 0.25%;
 }
 .tix-website-url{display:none;}
