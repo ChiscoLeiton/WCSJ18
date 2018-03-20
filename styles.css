@@ -743,4 +743,4 @@ form.contact-form.commentsblock input:not(.pushbutton-wide), form.contact-form.c
     margin: 0.25%;
 }
 #tix-attendees .tix-website-url{display:none!important;}
-.tix-attendee-url{position:aboslute; background:#eee; tix-attendee-url:2px;right:2px; }
+.tix-attendee-url{margin:1px; background:#eee; }
